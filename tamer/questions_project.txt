@@ -1,0 +1,42 @@
+### Question 1
+* Use TAMER in another OpenAI gym environment. Continue to use the pygame structure. Make sure you are familiar with the information about observation space, action space, rewards and termination.
+
+### Question 2
+* Suggest other ways of incorporating human feedback by checking alternative versions of the TAMER algorithm (e.g. TAMER+RL). Try implementing one of your choice.
+
+###**Question 3
+* In this tutorial you used the keyboard, list alternative interfaces for collecting human feedback and include the advantages and disadvantages of each.
+
+### Question 4
+* What are the three fundamental differences between the reward function and the human feedback function?
+* Specify the difference in the learning update rule.
+
+# **References**
+* Knox, W.B., & Stone, P. (2012). Reinforcement learning from simultaneous human and MDP reward. Adaptive Agents and Multi-Agent Systems. [pdf](https://www.cs.cmu.edu/~jeanoh/16-785/papers/knox-aamas2012-tamer.pdf)
+* Warnell, G., Waytowich, N.R., Lawhern, V.J., & Stone, P. (2017). Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces. ArXiv, abs/1709.10163.[pdf](https://arxiv.org/pdf/1709.10163.pdf)
+* Arakawa, R., Kobayashi, S., Unno, Y., Tsuboi, Y., & Maeda, S. (2018). DQN-TAMER: Human-in-the-Loop Reinforcement Learning with 
+
+Translated with DeepL.com (free version)
+
+
+
+
+### **Question 1**
+* Utilisez TAMER dans un autre environnement OpenAI gym. Continuez à utiliser la structure pygame. Assurez-vous d'être familier avec les informations concernant l' espace d'observation, l'espace d'action, les récompenses et la terminaison.
+
+### **Question 2**
+* Suggérer d'autres façons d'intégrer le feedback humain en vérifiant des versions alternatives de l'algorithme TAMER (e.g. TAMER+RL). Essayez d'en implémenter une de votre choix.
+
+###**Question 3**
+* Dans ce TP, vous avez utilisé le clavier, listez des interfaces alternatives pour collecter le feedback humain et incluez les avantages et les inconvénients de chacune.
+
+### Question 4
+* Quelles sont les trois différences fondamentales entre la fonction de récompense et la fonction de rétroaction humaine ?
+* Spécifiez quelle est la différence dans la règle de mise à jour de l'apprentissage
+
+# **References**
+* Knox, W.B., & Stone, P. (2012). Reinforcement learning from simultaneous human and MDP reward. Adaptive Agents and Multi-Agent Systems. [pdf](https://www.cs.cmu.edu/~jeanoh/16-785/papers/knox-aamas2012-tamer.pdf)
+* Warnell, G., Waytowich, N.R., Lawhern, V.J., & Stone, P. (2017). Deep TAMER: Interactive Agent Shaping in High-Dimensional State Spaces. ArXiv, abs/1709.10163.[pdf](https://arxiv.org/pdf/1709.10163.pdf)
+* Arakawa, R., Kobayashi, S., Unno, Y., Tsuboi, Y., & Maeda, S. (2018). DQN-TAMER: Human-in-the-Loop Reinforcement Learning with Intractable Feedback. ArXiv, abs/1810.11748. [pdf](https://www.semanticscholar.org/reader/31ed72a18ed8a1008786130af9f1d61761cff4f3)
+* Karalus, J., & Lindner, F. (2021). Accelerating the Learning of TAMER with Counterfactual Explanations. 2022 IEEE International Conference on Development and Learning (ICDL), 362-368. [pdf](https://www.semanticscholar.org/reader/243abd03e6fa267219d5afd82f387dddc0db26a3)
+* Knox, W.B., & Stone, P. (2009). Interactively shaping agents via human reinforcement: the TAMER framework. International Conference on Knowledge Capture. [pdf](https://www.cs.utah.edu/~dsbrown/readings/tamer.pdf)
