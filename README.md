@@ -20,3 +20,5 @@ You need python 3.7+ with numpy, sklearn, pygame and gym.
 3. The first 30 training iterations follow the TAMER method. After this, the system will conduct 15 self-evaluation runs. Next, it will automatically start training using the TAMER+RL method for another 30 iterations, followed by another 15 self-evaluation runs. Finally, you will receive a result curve that allows you to evaluate and compare the training process and evaluation results of the two methods.
 
 4. **Note:** In the `CartPole-v1` environment, the `Left` action is correct, while the `None` action is equivalent to `Right`. This is because I didn’t modify the action label settings for the `MountainCar-v0` environment (feel free to help me fix this if needed).
+
+![resP2](https://github.com/user-attachments/assets/918f8525-c815-4d15-8504-f25f98e2cc4c)
